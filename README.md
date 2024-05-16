@@ -1,4 +1,6 @@
 # Luhn Algorithm 
+***Validate an input for Luhn check***
+
 This repository implements the Luhn algorithm to check for whether an input value is valid or invalid. 
 
 ## Function
