@@ -1,8 +1,10 @@
 # Luhn Algorithm 
-***Validate an input for Luhn check***
 
+#### Validate an input for Luhn check
+[![Github](https://img.shields.io/badge/Github-Repository-181717?logo=github&style=for-the-badge)](https://github.com/Gurjinder7)
+---
 This repository implements the Luhn algorithm to check for whether an input value is valid or invalid. 
-
+---
 ## Function
 
 `checkLuhn(input: string)` 
